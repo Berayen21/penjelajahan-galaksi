@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>planet</title>
+  </head>
+  <body>
+    <h1>MERKURIUS</h1>
+    <img src="merkurius.mp4" alt="" />
+    <p>
+      Merkurius adalah planet terdekat dengan Matahari, dan planet terkecil di
+      tata surya kita - hanya sedikit lebih besar dari Bulan Bumi.
+    </p>
+    <p>
+      Keistimewaan Merkurius juga tercermin dalam rotasinya yang terkunci pasang
+      surut terhadap Matahari, berotasi pada porosnya tiga kali untuk setiap dua
+      kali mengorbit Matahari.
+    </p>
+    <p>
+      Planet Merkurius merupakan planet terdekat dengan Matahari karena jarak
+      antara keduanya, yaitu 57,9 juta km dengan lama waktu rotasi mencapai 59
+      hari dan lama revolusi mencapai 88 hari. Planet ini memiliki julukan
+      sebagai Bintang Senja dan Bintang Pagi.
+    </p>
+    <p>
+     <h2> Apa yang menarik dari planet Merkurius?</h2>Merkurius menyandang gelar planet
+        terdekat dengan Matahari sehingga mengorbit sang bintang raksasa hanya
+        dalam waktu 88 hari Bumi. Hal ini membuatnya menjadi planet terpanas di
+        tata surya, dengan suhu permukaan yang bisa mencapai 430 derajat Celcius.
+      
+    </p>
+  </body>
+</html>
